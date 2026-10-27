@@ -1,0 +1,9 @@
+Abhimanyu Tiwari
+Final-year student, Symbiosis University of Applied Sciences
+
+Skills: Python, JavaScript, HTML, CSS, SQL, Git, GitHub, REST APIs, Data Analysis, Machine Learning basics, Prompt Engineering, Automation
+
+Projects:
+- Built a reel/video generator with beat-synced visuals using Python and AI tools.
+- Developed web projects using HTML, CSS and JavaScript.
+- Used AI APIs to automate repetitive content tasks.

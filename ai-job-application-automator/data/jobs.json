@@ -1,0 +1,17 @@
+[
+  {
+    "company": "Virtuous Tech",
+    "role": "AI Automation Intern",
+    "description": "Build automation workflows using Python, REST APIs and LLM prompt engineering. Knowledge of Git and SQL is a plus."
+  },
+  {
+    "company": "DataNest",
+    "role": "Junior Data Analyst",
+    "description": "Analyze datasets with SQL and Python, build dashboards, and communicate insights. Machine learning basics preferred."
+  },
+  {
+    "company": "PixelWorks",
+    "role": "Frontend Developer Trainee",
+    "description": "Develop responsive interfaces with HTML, CSS, JavaScript and React. Git and GitHub experience required."
+  }
+]
