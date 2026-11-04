@@ -1,5 +1,5 @@
 **To:** vaishali.joshi@suas.ac.in
-**Subject:** Virtuous Placement Drive - AI Automation Project Details - Abhimanyu Tiwari
+**Subject:** Virtuous Placement Drive - AI Automation Project Details - Divyansh Baghela
 
 Dear Ma'am,
 
@@ -12,4 +12,4 @@ I have registered for the Virtuous Placement Drive. Please find the requested de
 Thank you for the opportunity.
 
 Regards,
-Abhimanyu Tiwari
+Divyansh Baghela
